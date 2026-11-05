@@ -1,0 +1,9 @@
+# Required libraries for Activity 1 - Dataset Preparation
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipython
